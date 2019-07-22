@@ -1,0 +1,22 @@
+@font-face {
+  font-family: Open-Sans;
+  src: url(":\fonts\OpenSans-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  font-family: Open-Sans;
+}
+
+.header {
+  width: 100vw;
+  
+}
+
+@media (max-width:640px) {
+  .container {
+  width: 87.5%;
+  background-image: https://github.com/sv-konradi/diplom/blob/master/img/football-801047.jpg
+  }
+}
